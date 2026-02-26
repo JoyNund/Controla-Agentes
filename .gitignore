@@ -76,6 +76,16 @@ test_*.bat
 # Archivos de sesión PM2
 /root/.pm2/
 
-# Datos sensibles
-server/data/users.json
+# Datos sensibles (NO subir a Git)
+server/data/agents.json
+server/data/connections.json
+server/data/conversations.json
+server/data/payments.json
+server/data/citas.json
+server/data/settings.json
+server/data/ocr_context.json
 server/data/active-agent.json
+server/data/users.json
+server/data/media/
+server/data/uploads/
+server/data/qr_*.png

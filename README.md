@@ -1,200 +1,406 @@
-# CONTROLA.agentes - Sistema de Agentes IA para WhatsApp
+# CONTROLA.agentes 🤖
 
-[![Estado](https://img.shields.io/badge/estado-funcional-green)]()
-[![Baileys](https://img.shields.io/badge/Baileys-7.0.0--rc.9-blue)]()
-[![Node](https://img.shields.io/badge/Node-20.x-green)]()
+> Sistema multi-agente de IA para WhatsApp Business con OCR de pagos, catálogo multimedia y failover automático.
 
-Sistema de agentes de IA para atención automática de WhatsApp con gestión multi-dispositivo.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Business-25D366.svg)](https://www.whatsapp.com/business/)
 
----
-
-## 🚀 Inicio Rápido
-
-### 1. Iniciar Servidores
-
-**Terminal 1 - API + Web App:**
-```bash
-cd /var/www/agentes
-npm run server
-```
-
-**Terminal 2 - Bot de WhatsApp:**
-```bash
-cd /var/www/agentes
-npm start
-```
-
-### 2. Acceder a la Web
-
-- **URL:** http://localhost:3847
-- **Login:** `admin@controla.digital` / `admin123`
-
-### 3. Vincular WhatsApp
-
-1. Ir a **"Conexión"**
-2. Click en **"+ Nueva Conexión"**
-3. Click en **"Encender"**
-4. Escanear QR desde WhatsApp
+**Versión:** 2.6.0 (Beta)  
+**Estado:** ✅ Funcional en producción
 
 ---
 
-## 📚 Documentación
+## 🚀 Características Principales
 
-| Documento | Descripción |
-|-----------|-------------|
-| [CONFIGURACION_FINAL.md](./CONFIGURACION_FINAL.md) | **Configuración completa y troubleshooting** |
-| [CAMBIOS_REALIZADOS.md](./CAMBIOS_REALIZADOS.md) | Historial de cambios |
-| [NUEVA_ARQUITECTURA.md](./NUEVA_ARQUITECTURA.md) | Arquitectura del sistema |
+### Multi-Agente de IA
+- **Agentes configurables**: Cada agente tiene personalidad, base de conocimiento y reglas personalizadas
+- **Multi-motor IA**: Soporte para Deepseek, OpenAI, Qwen OAuth, Gemini y Llama
+- **Cambio dinámico**: Cambia el agente de una conexión sin reiniciar WhatsApp
+- **Asistente de configuración**: IA ayuda a redactar personalidad, saludo y objeciones
+
+### WhatsApp Business Integration
+- **Baileys 7.x**: Conexión directa sin API oficial
+- **Hot Standby**: Failover automático < 5 segundos con dual socket (PRIMARY + STANDBY)
+- **Message Queue**: Recuperación automática de mensajes perdidos
+- **Multi-conexión**: Múltiples números WhatsApp en una sola instancia
+
+### Sistema OCR de Pagos 💳
+- **Detección automática**: Yape, Plin, BCP, Transferencias bancarias
+- **Tesseract.js**: Procesamiento local de imágenes
+- **Validación inteligente**: Patrones para asteriscos, case-insensitive, montos > 0
+- **Organización por cliente**: `/media/pagos/{telefono}/`
+- **CRUD completo**: Registro, edición, eliminación y monitoreo de pagos
+
+### Catálogo Multimedia 📁
+- **Envío inteligente**: Checkbox `enableSmartMedia` para envío contextual
+- **Múltiples formatos**: Imágenes, PDFs, videos
+- **Enlaces WhatsApp**: Soporte para productos vía `wa.me/p/PRODUCTO`
+- **Búsqueda contextual**: IA selecciona el archivo relevante según el chat
+
+### Gestión de Citas 📅
+- **Agendamiento automático**: IA detecta solicitudes de citas en conversaciones
+- **Validación de horarios**: Reglas configurables por agente
+- **Recordatorios**: Notificaciones automáticas (configurable)
+
+### Seguridad 🔐
+- **Keywords ofuscadas**: HEX encoding para contraseñas de operaciones críticas
+- **Master Keyword**: Palabra clave global para administración
+- **Keywords individuales**: Por agente y conexión
+- **Modales de confirmación**: UI protege acciones sensibles
 
 ---
 
-## 🛠️ Scripts de Utilidad
+## 🏗️ Arquitectura
 
-### ⚠️ REGLA CRÍTICA: BACKUPS PERMANENTES
+```
+┌─────────────────────────────────────────────────────────┐
+│  WEB APP (React + Vite + Bootstrap)                     │
+│  - Gestión de Agentes y Conexiones                      │
+│  - Monitor de Chats en tiempo real                      │
+│  - CRUD de Pagos y Citas                                │
+├─────────────────────────────────────────────────────────┤
+│  API REST (Express + Session) → Puerto 3847             │
+│  - CRUD Agentes, Conexiones, Conversaciones             │
+│  - Endpoints de Pagos, Citas, Media                     │
+├─────────────────────────────────────────────────────────┤
+│  BOT ORCHESTRATOR (Baileys 7.x) → Puerto 3848           │
+│  - Dual Socket: PRIMARY + STANDBY                       │
+│  - Failover automático < 5s                             │
+│  - Message Queue + Recovery                             │
+├─────────────────────────────────────────────────────────┤
+│  IA SERVICE                                             │
+│  - Multi-motor: Deepseek, OpenAI, Qwen, Gemini, Llama   │
+│  - Contexto de conversación (últimos 10 mensajes)       │
+└─────────────────────────────────────────────────────────┘
+```
 
-**Los backups son INAMOVIBLES y NUNCA se modifican:**
+---
 
-- ✅ El restore **COPIA** archivos DESDE el backup HACIA el proyecto
-- ✅ El backup original permanece **INTACTO** siempre
-- ✅ **NUNCA** reemplazar, mover o eliminar archivos del backup
+## 📋 Requisitos
+
+- **Node.js** 18+ 
+- **npm** o **yarn**
+- **PM2** (para producción)
+- **Tesseract.js** (para OCR)
+- **Baileys** 7.x (para WhatsApp)
+
+---
+
+## ⚙️ Instalación
+
+### 1. Clonar el repositorio
 
 ```bash
-# Crear backup (crea directorio nuevo)
-node scripts/backup.js
-
-# Listar backups
-node scripts/backup.js --list
-
-# Restaurar (copia DESDE backup, no reemplaza)
-node scripts/restore.js backups/configuracion_inicial_funcional
-
-# Help
-node scripts/backup.js --help
+git clone https://github.com/JoyNund/Controla-Agentes.git
+cd Controla-Agentes
 ```
+
+### 2. Instalar dependencias
+
+```bash
+# Dependencias del backend
+npm install
+
+# Dependencias del frontend
+cd webapp
+npm install
+npm run build
+cd ..
+```
+
+### 3. Configurar variables de entorno
+
+```bash
+# Copiar archivo de ejemplo
+cp .env.example .env
+
+# Editar .env con tus credenciales
+nano .env
+```
+
+**Variables requeridas:**
+```env
+# API Keys de IA
+DEEPSEEK_API_KEY=sk-xxx
+OPENAI_API_KEY=sk-xxx
+
+# Configuración del servidor
+PORT=3847
+BOT_PORT=3848
+
+# Session secret
+SESSION_SECRET=tu_secreto_seguro
+
+# WhatsApp (opcional, se genera QR)
+PHONE_NUMBER=51999999999
+```
+
+### 4. Iniciar con PM2 (Producción)
+
+```bash
+# Instalar PM2 globalmente
+npm install -g pm2
+
+# Iniciar API y Bot
+pm2 start ecosystem.config.js
+
+# Ver estado
+pm2 list
+
+# Ver logs
+pm2 logs
+```
+
+### 5. Iniciar en modo desarrollo
+
+```bash
+# Terminal 1: API
+cd server
+npm run dev
+
+# Terminal 2: Bot
+node app.js
+
+# Terminal 3: Frontend (desarrollo)
+cd webapp
+npm run dev
+```
+
+---
+
+## 🎯 Uso
+
+### 1. Acceder al Dashboard
+
+Abre tu navegador en `http://localhost:3847`
+
+### 2. Configurar Agente
+
+1. Ve a **Agentes** → **Nuevo Agente**
+2. Configura:
+   - **Nombre**: Identificador del agente
+   - **Keyword**: Palabra clave de seguridad (opcional)
+   - **Personalidad**: Prompt del sistema
+   - **Base de conocimiento**: Información del negocio
+   - **Saludo**: Mensaje inicial
+   - **Objeciones**: Respuestas a objeciones comunes
+   - **Motor IA**: Deepseek, OpenAI, etc.
+   - **Capacidades**: OCR Pagos, Agendar Citas
+
+### 3. Crear Conexión WhatsApp
+
+1. Ve a **Conexiones** → **Nueva Conexión**
+2. Configura:
+   - **Nombre**: Identificador de la conexión
+   - **Keyword**: Palabra clave de seguridad
+   - **Agente**: Asigna un agente configurado
+3. Escanea el QR con WhatsApp Business
+
+### 4. Monitorear Chats
+
+Ve a **Monitor** para ver conversaciones en tiempo real y:
+- Ver mensajes entrantes/salientes
+- Forzar respuesta de IA
+- Ver estado de capacidades (OCR, Citas)
+
+### 5. Gestionar Pagos
+
+Ve a **Pagos** para:
+- Ver pagos detectados por OCR
+- Editar/eliminar pagos
+- Filtrar por cliente, estado, fecha, agente
 
 ---
 
 ## 📁 Estructura del Proyecto
 
 ```
-/var/www/agentes/
-├── app.js                      # Bot orchestrator (Baileys 7.x)
+Controla-Agentes/
+├── app.js                          # Bot Orchestrator (Baileys + OCR)
 ├── server/
-│   ├── index.js                # API REST
-│   ├── store.js                # Persistencia JSON
-│   └── data/
-│       ├── agents.json         # Agentes con API keys
-│       ├── connections.json    # Conexiones activas
-│       └── conversations.json  # Historial de chats
-├── services/
-│   └── agenteIA.js             # Servicio de IA (Deepseek/OpenAI)
-├── webapp/                     # Frontend React
-│   └── src/
-│       ├── pages/
-│       │   ├── Conexion.jsx    # UI de conexiones
-│       │   └── ...
-│       └── api.js              # API client
-├── scripts/
-│   ├── backup.js               # Script de backup
-│   ├── restore.js              # Script de restore
-│   └── clean-sessions.js       # Limpieza de sesiones
-├── backups/                    # Backups creados
-└── bot_sessions/               # Sesiones de Baileys
+│   ├── index.js                    # API REST Express
+│   ├── data/                       # Datos JSON (no subir a Git)
+│   │   ├── agents.json
+│   │   ├── connections.json
+│   │   ├── payments.json
+│   │   └── settings.json
+│   └── services/
+│       ├── agenteIA.js             # Servicio de IA multi-motor
+│       ├── ocrService.js           # OCR con Tesseract.js
+│       └── mediaCatalog.js         # Catálogo multimedia
+├── webapp/
+│   ├── src/
+│   │   ├── pages/
+│   │   │   ├── Agentes.jsx         # Gestión de agentes
+│   │   │   ├── Conexiones.jsx      # Gestión de WhatsApp
+│   │   │   ├── Monitor.jsx         # Chats en vivo
+│   │   │   ├── Pagos.jsx           # CRUD de pagos
+│   │   │   └── Citas.jsx           # Gestión de citas
+│   │   └── components/
+│   │       ├── AgentConfigAssistant.jsx
+│   │       ├── KeywordModal.jsx
+│   │       └── PagoModal.jsx
+│   └── dist/                       # Build de producción
+├── bot_sessions/                   # Sesiones WhatsApp (no subir)
+├── media/                          # Archivos OCR (no subir)
+├── recuperacion/                   # Backups y recuperación
+├── DOCUMENTACION_*.md              # Documentación completa
+└── ecosystem.config.js             # Configuración PM2
 ```
 
 ---
 
-## 🔑 Conceptos Clave
+## 🔐 Seguridad
 
-### Agente ≠ Conexión
+### Keywords de Seguridad
 
-- **Agente:** Plantilla de comportamiento de IA (prompt, base de conocimiento, API key)
-- **Conexión:** Dispositivo WhatsApp vinculado (número de teléfono)
-- **Relación:** Una conexión tiene un agente asignado
+El sistema usa keywords ofuscadas (HEX) para proteger operaciones críticas:
 
-### Ejemplo
+| Acción | Keyword Requerida |
+|--------|-------------------|
+| Crear/Editar Agente | Master Keyword o individual |
+| Eliminar Agente | Master Keyword |
+| Asignar Agente a Conexión | Keyword de la conexión |
+| Logout/Restart Conexión | Keyword de la conexión |
 
-```
-Agente: "CONTROLA" (ventas, API key de Deepseek)
-   ↓
-Conexión 1: "WhatsApp Ventas" → 51903172378
-Conexión 2: "WhatsApp Soporte" → 519999888777
-```
+**Default Master Keyword:** `John0306` (cambiar en producción)
 
----
+### Archivos Sensibles
 
-## 🔧 Variables de Entorno
+Los siguientes archivos **NO** deben subirse a Git:
 
-Archivo `.env`:
-
-```env
-# Seguridad
-APP_PASSWORD=admin123
-DEEPSEEK_API_KEY=sk-xxxxxxxxxxxx
-
-# Puertos
-BOT_PORT=3848
-WEBAPP_PORT=3847
-```
+- `.env` (credenciales)
+- `server/data/*.json` (datos de clientes)
+- `bot_sessions/` (credenciales de WhatsApp)
+- `media/` (imágenes OCR)
+- `recuperacion/backups/` (copias de seguridad)
 
 ---
 
-## 🐛 Troubleshooting
-
-### Bot no recibe mensajes
-
-1. Cerrar sesión desde WhatsApp (celular)
-2. Logout desde web
-3. Volver a vincular
-
-### Error de API Key
+## 🧪 Comandos Útiles
 
 ```bash
-# Verificar API key
-grep DEEPSEEK /var/www/agentes/.env
+# Health check
+curl http://localhost:3848/api/health | python3 -m json.tool
 
-# Actualizar agente
-curl -X PUT http://localhost:3847/api/agents/AG_ID \
-  -H "Content-Type: application/json" \
-  -H "Cookie: session=..." \
-  -d '{"apiKey":"sk-xxxxx"}'
+# Reiniciar bot
+pm2 restart agentes-bot
+
+# Reiniciar API
+pm2 restart agentes-api
+
+# Ver logs en vivo
+pm2 logs --lines 50
+
+# Ver uso de memoria
+pm2 list
+
+# Crear backup
+cd recuperacion && ./recuperar.sh --create
+
+# Restaurar backup
+cd recuperacion && ./recuperar.sh --restore <ID>
 ```
 
-### Puerto ocupado
+---
 
+## 📊 Endpoints de la API
+
+### Agentes
 ```bash
-# Matar procesos
-pkill -f "node /var/www/agentes"
-
-# Reiniciar
-npm run server  # Terminal 1
-npm start       # Terminal 2
+GET    /api/agents              # Listar agentes
+POST   /api/agents              # Crear agente
+PUT    /api/agents/:id          # Actualizar agente
+DELETE /api/agents/:id          # Eliminar agente
+POST   /api/agents/generate-config  # Generar config con IA
 ```
+
+### Conexiones
+```bash
+GET    /api/connections         # Listar conexiones
+POST   /api/connections         # Crear conexión
+PUT    /api/connections/:id     # Actualizar conexión
+DELETE /api/connections/:id     # Eliminar conexión
+POST   /api/connections/:id/assign  # Asignar agente
+```
+
+### Pagos
+```bash
+GET    /api/pagos               # Listar pagos
+POST   /api/pagos               # Crear pago
+PUT    /api/pagos/:id           # Actualizar pago
+DELETE /api/pagos/:id           # Eliminar pago
+```
+
+### Citas
+```bash
+GET    /api/citas               # Listar citas
+POST   /api/citas               # Crear cita
+PUT    /api/citas/:id           # Actualizar cita
+DELETE /api/citas/:id           # Eliminar cita
+```
+
+---
+
+## 🛣️ Roadmap
+
+### Versión 3.0 (Q2 2026)
+- [ ] Multi-tenant con PostgreSQL
+- [ ] Autenticación de usuarios (JWT)
+- [ ] Sistema de planes y billing (Stripe)
+- [ ] Dashboard de analytics
+- [ ] License Server para self-hosted
+
+### Versión 2.7 (Q1 2026)
+- [ ] Plantillas de respuestas rápidas
+- [ ] Broadcast masivo (con rate limiting)
+- [ ] Etiquetas y segmentación de clientes
+- [ ] Exportación de conversaciones (PDF/CSV)
+
+---
+
+## 📄 Documentación Adicional
+
+- [DOCUMENTACION_COMPLETA_2026_02_26.md](./DOCUMENTACION_COMPLETA_2026_02_26.md) - Guía completa del sistema
+- [PLAN_ESCALAMIENTO_2026.md](./PLAN_ESCALAMIENTO_2026.md) - Plan para versión comercial
+- [DOCUMENTACION_ORDENES_CATALOGO.md](./DOCUMENTACION_ORDENES_CATALOGO.md) - Pedidos de WhatsApp
+- [DOCUMENTACION_ENLACES_WHATSAPP.md](./DOCUMENTACION_ENLACES_WHATSAPP.md) - Enlaces de productos
+- [SISTEMA_KEYWORDS_SEGURIDAD.md](./SISTEMA_KEYWORDS_SEGURIDAD.md) - Sistema de seguridad
+- [IMPLEMENTACION_HOT_STANDBY.md](./IMPLEMENTACION_HOT_STANDBY.md) - Failover automático
+
+---
+
+## 🤝 Contribuir
+
+1. Fork el proyecto
+2. Crea una rama (`git checkout -b feature/nueva-funcionalidad`)
+3. Commit tus cambios (`git commit -m 'Añadir nueva funcionalidad'`)
+4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
+5. Abre un Pull Request
+
+---
+
+## 📝 Licencia
+
+Este proyecto está bajo la licencia MIT. Ver [LICENSE](./LICENSE) para más detalles.
+
+---
+
+## 🙏 Agradecimientos
+
+- [Baileys](https://github.com/WhiskeySockets/Baileys) - Librería de WhatsApp
+- [Tesseract.js](https://github.com/naptha/tesseract.js) - OCR en JavaScript
+- [React](https://react.dev/) - Framework de UI
+- [Express](https://expressjs.com/) - Framework de backend
 
 ---
 
 ## 📞 Soporte
 
-- **Documentación bot-whatsapp:** https://bot-whatsapp.netlify.app/
-- **Discord:** https://link.codigoencasa.com/DISCORD
-- **Baileys GitHub:** https://github.com/WhiskeySockets/Baileys
+- **Issues:** [GitHub Issues](https://github.com/JoyNund/Controla-Agentes/issues)
+- **Discusión:** [GitHub Discussions](https://github.com/JoyNund/Controla-Agentes/discussions)
 
 ---
 
-## ✅ Checklist de Funcionamiento
-
-- [ ] API corriendo en puerto 3847
-- [ ] Bot corriendo en puerto 3848
-- [ ] Web accesible en http://localhost:3847
-- [ ] Login funcional
-- [ ] Agente configurado con API key
-- [ ] Conexión creada y vinculada
-- [ ] Estado: "CONECTADO"
-- [ ] Mensajes entrantes se procesan
-- [ ] IA responde correctamente
-- [ ] Backup creado
-
----
-
-**Última actualización:** 21 de Febrero, 2026  
-**Estado:** ✅ FUNCIONANDO
+**Hecho con ❤️ para WhatsApp Business**
