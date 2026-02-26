@@ -1,0 +1,81 @@
+# Node modules
+node_modules/
+webapp/node_modules/
+
+# Logs
+*.log
+app.log
+baileys.log
+core.class.log
+logs/
+
+# Sessions de WhatsApp (contienen credenciales)
+bot_sessions/
+*_sessions/
+web_sessions/
+test_sender_sessions/
+conn_*_sessions/
+ag_*_sessions/
+
+# QR codes (se generan dinámicamente)
+*.qr.png
+server/data/qr_*.png
+
+# Archivos de entorno (contienen secrets)
+.env
+
+# Backups y recuperación
+recuperacion/backups/
+backups/
+
+# Media generada
+media/pagos/
+media/ag_*/
+server/data/media/
+server/data/uploads/
+
+# Build artifacts
+webapp/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporales
+*.tmp
+*.bak
+*.backup.original
+*.backup.debug
+
+# Orchestrators viejos (solo mantener app.js)
+*_orchestrator.js
+*-direct.js
+clean_*.js
+config_*.js
+corrected_*.js
+debug_*.js
+deep_*.js
+dual_*.js
+error_*.js
+final_*.js
+full_*.js
+fully_*.js
+qr_*.js
+simple_*.js
+stable_*.js
+test_*.js
+
+# Scripts de testing
+test_*.js
+test_*.bat
+
+# Archivos de sesión PM2
+/root/.pm2/
+
+# Datos sensibles
+server/data/users.json
+server/data/active-agent.json

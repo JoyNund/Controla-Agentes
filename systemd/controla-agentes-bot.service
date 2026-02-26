@@ -1,0 +1,18 @@
+[Unit]
+Description=Controla.Agentes WhatsApp Bot
+After=network.target controla-agentes-api.service
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/var/www/agentes
+ExecStartPre=/bin/bash /var/www/agentes/scripts/stop.sh
+ExecStart=/usr/bin/node app.js
+Restart=on-failure
+RestartSec=5
+StandardOutput=append:/var/www/agentes/logs/bot-server.log
+StandardError=append:/var/www/agentes/logs/bot-server.log
+Environment=NODE_ENV=production
+
+[Install]
+WantedBy=multi-user.target

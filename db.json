@@ -1,0 +1,29 @@
+[
+  {
+    "ref": "5477c226-baef-444a-9cba-6bfda915dcbe",
+    "keyword": "d8e5b0701ea4699d4acc4059c3dbfd2e",
+    "answer": "Este es un test chat",
+    "options": {},
+    "from": "268366870798343@lid",
+    "refSerialize": "931e74a86cd79451e2d4c2e4a906515b"
+  },
+  {
+    "ref": "ans_9da95de1-5535-4bb6-89ce-f15cd10db557",
+    "keyword": "key_8ee60d63-43f1-4843-b519-4f4b98ee0f23",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "18b2b2f7ecb6a1ebc264a7e36d84d4ba",
+    "from": "268366870798343@lid"
+  }
+]

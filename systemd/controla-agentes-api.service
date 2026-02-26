@@ -1,0 +1,18 @@
+[Unit]
+Description=Controla.Agentes API Server
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/var/www/agentes
+ExecStartPre=/bin/bash /var/www/agentes/scripts/stop.sh
+ExecStart=/usr/bin/node server/index.js
+Restart=on-failure
+RestartSec=5
+StandardOutput=append:/var/www/agentes/logs/api-server.log
+StandardError=append:/var/www/agentes/logs/api-server.log
+Environment=NODE_ENV=production
+
+[Install]
+WantedBy=multi-user.target

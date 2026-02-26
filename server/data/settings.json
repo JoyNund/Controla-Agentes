@@ -1,0 +1,25 @@
+{
+  "darkMode": false,
+  "defaultModel": "deepseek",
+  "branding": {
+    "logoUrl": "https://john.controla.digital/faviconRD.webp",
+    "appTitle": "CONTROLA",
+    "accentColor": "#16addf"
+  },
+  "features": {
+    "ocrPagos": true,
+    "gestionsCitas": true
+  },
+  "security": {
+    "masterKeyword": "4a6f686e30333036",
+    "keywords": {
+      "agent_create": "4a6f686e30333036",
+      "agent_edit": "4a6f686e30333036",
+      "agent_delete": "4a6f686e30333036",
+      "connection_create": "4a6f686e30333036",
+      "connection_toggle": "4a6f686e30333036",
+      "connection_delete": "4a6f686e30333036",
+      "connection_assign_agent": "4a6f686e30333036"
+    }
+  }
+}

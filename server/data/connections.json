@@ -1,0 +1,4058 @@
+{
+  "conn_1771700341570_k4fg": {
+    "id": "conn_1771700341570_k4fg",
+    "name": "nuevooo",
+    "status": "connecting",
+    "agentId": "ag_1771820574440_o3932v",
+    "phoneNumber": "51903172378",
+    "logs": [
+      {
+        "time": "2026-02-22T08:26:22.724Z",
+        "text": "[9:26:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:26:31.671Z",
+        "text": "[9:26:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:26:42.702Z",
+        "text": "[9:26:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:26:51.063Z",
+        "text": "[9:26:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:27:02.400Z",
+        "text": "[9:27:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:27:11.490Z",
+        "text": "[9:27:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:27:20.835Z",
+        "text": "[9:27:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:27:32.972Z",
+        "text": "[9:27:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:27:44.499Z",
+        "text": "[9:27:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:27:54.463Z",
+        "text": "[9:27:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:03.061Z",
+        "text": "[9:28:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:16.094Z",
+        "text": "[9:28:15 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:22.757Z",
+        "text": "[9:28:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:31.733Z",
+        "text": "[9:28:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:41.243Z",
+        "text": "[9:28:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:54.327Z",
+        "text": "[9:28:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:29:04.737Z",
+        "text": "[9:29:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:29:12.491Z",
+        "text": "[9:29:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:29:22.402Z",
+        "text": "[9:29:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:30:33.799Z",
+        "text": "[9:30:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:30:45.726Z",
+        "text": "[9:30:45 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:30:57.012Z",
+        "text": "[9:30:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:06.724Z",
+        "text": "[9:31:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:16.425Z",
+        "text": "[9:31:16 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:27.684Z",
+        "text": "[9:31:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:36.573Z",
+        "text": "[9:31:36 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:45.652Z",
+        "text": "[9:31:45 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:59.397Z",
+        "text": "[9:31:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:32:17.513Z",
+        "text": "[9:32:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:32:25.940Z",
+        "text": "[9:32:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:32:38.554Z",
+        "text": "[9:32:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:32:45.684Z",
+        "text": "[9:32:45 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:32:57.745Z",
+        "text": "[9:32:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:33:07.190Z",
+        "text": "[9:33:07 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:33:23.788Z",
+        "text": "[9:33:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:33:31.389Z",
+        "text": "[9:33:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:33:40.775Z",
+        "text": "[9:33:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:33:50.538Z",
+        "text": "[9:33:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:34:02.028Z",
+        "text": "[9:34:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:34:35.119Z",
+        "text": "[9:34:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:34:44.731Z",
+        "text": "[9:34:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:34:54.332Z",
+        "text": "[9:34:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:02.782Z",
+        "text": "[9:35:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:11.651Z",
+        "text": "[9:35:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:20.559Z",
+        "text": "[9:35:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:29.538Z",
+        "text": "[9:35:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:41.864Z",
+        "text": "[9:35:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:52.606Z",
+        "text": "[9:35:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:36:11.913Z",
+        "text": "[9:36:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:36:23.952Z",
+        "text": "[9:36:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:36:31.979Z",
+        "text": "[9:36:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:36:40.840Z",
+        "text": "[9:36:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:36:49.557Z",
+        "text": "[9:36:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:37:00.467Z",
+        "text": "[9:37:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:37:26.163Z",
+        "text": "[9:37:26 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:37:34.367Z",
+        "text": "[9:37:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:37:44.991Z",
+        "text": "[9:37:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:03.130Z",
+        "text": "[9:38:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:19.445Z",
+        "text": "[9:38:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:28.206Z",
+        "text": "[9:38:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:36.375Z",
+        "text": "[9:38:36 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:48.654Z",
+        "text": "[9:38:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:59.901Z",
+        "text": "[9:38:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:40:07.167Z",
+        "text": "[9:40:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:40:15.853Z",
+        "text": "[9:40:15 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:40:26.165Z",
+        "text": "[9:40:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:40:34.597Z",
+        "text": "[9:40:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:40:51.397Z",
+        "text": "[9:40:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:41:04.264Z",
+        "text": "[9:41:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:41:18.198Z",
+        "text": "[9:41:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:41:28.485Z",
+        "text": "[9:41:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:41:38.140Z",
+        "text": "[9:41:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:41:46.327Z",
+        "text": "[9:41:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:41:57.020Z",
+        "text": "[9:41:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:04.289Z",
+        "text": "[9:42:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:14.824Z",
+        "text": "[9:42:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:24.393Z",
+        "text": "[9:42:24 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:36.841Z",
+        "text": "[9:42:36 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:46.134Z",
+        "text": "[9:42:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:55.475Z",
+        "text": "[9:42:55 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:43:06.930Z",
+        "text": "[9:43:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:43:19.672Z",
+        "text": "[9:43:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:43:28.308Z",
+        "text": "[9:43:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:43:39.047Z",
+        "text": "[9:43:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:43:46.745Z",
+        "text": "[9:43:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:44:09.971Z",
+        "text": "[9:44:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:44:23.280Z",
+        "text": "[9:44:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:44:43.898Z",
+        "text": "[9:44:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:44:48.818Z",
+        "text": "[9:44:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:44:59.380Z",
+        "text": "[9:44:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:45:11.749Z",
+        "text": "[9:45:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:45:23.403Z",
+        "text": "[9:45:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:45:33.282Z",
+        "text": "[9:45:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:45:44.615Z",
+        "text": "[9:45:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:45:55.884Z",
+        "text": "[9:45:55 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:46:10.470Z",
+        "text": "[9:46:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:46:21.077Z",
+        "text": "[9:46:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:46:37.318Z",
+        "text": "[9:46:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:46:45.063Z",
+        "text": "[9:46:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:46:54.850Z",
+        "text": "[9:46:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:47:07.558Z",
+        "text": "[9:47:07 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:47:20.312Z",
+        "text": "[9:47:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:47:29.670Z",
+        "text": "[9:47:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:47:39.306Z",
+        "text": "[9:47:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:47:48.221Z",
+        "text": "[9:47:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:47:57.605Z",
+        "text": "[9:47:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:48:08.457Z",
+        "text": "[9:48:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:48:18.570Z",
+        "text": "[9:48:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:48:28.695Z",
+        "text": "[9:48:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:48:38.550Z",
+        "text": "[9:48:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:49:31.772Z",
+        "text": "[9:49:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:49:41.660Z",
+        "text": "[9:49:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:49:50.883Z",
+        "text": "[9:49:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:50:08.305Z",
+        "text": "[9:50:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:50:16.698Z",
+        "text": "[9:50:16 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:50:26.754Z",
+        "text": "[9:50:26 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:50:39.191Z",
+        "text": "[9:50:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:50:50.243Z",
+        "text": "[9:50:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:50:58.908Z",
+        "text": "[9:50:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:51:09.836Z",
+        "text": "[9:51:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:51:19.005Z",
+        "text": "[9:51:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:51:29.878Z",
+        "text": "[9:51:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:51:47.657Z",
+        "text": "[9:51:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:51:58.366Z",
+        "text": "[9:51:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:09.741Z",
+        "text": "[9:52:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:18.426Z",
+        "text": "[9:52:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:28.059Z",
+        "text": "[9:52:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:40.418Z",
+        "text": "[9:52:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:49.435Z",
+        "text": "[9:52:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:59.228Z",
+        "text": "[9:52:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:53:12.567Z",
+        "text": "[9:53:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:53:22.167Z",
+        "text": "[9:53:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:53:32.295Z",
+        "text": "[9:53:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:53:43.027Z",
+        "text": "[9:53:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:53:52.240Z",
+        "text": "[9:53:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:01.588Z",
+        "text": "[9:54:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:12.891Z",
+        "text": "[9:54:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:23.324Z",
+        "text": "[9:54:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:33.910Z",
+        "text": "[9:54:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:43.504Z",
+        "text": "[9:54:43 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:55.638Z",
+        "text": "[9:54:55 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:55:09.634Z",
+        "text": "[9:55:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:55:22.965Z",
+        "text": "[9:55:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:55:33.755Z",
+        "text": "[9:55:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:55:48.459Z",
+        "text": "[9:55:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:56:00.226Z",
+        "text": "[9:56:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:56:17.081Z",
+        "text": "[9:56:16 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:56:26.903Z",
+        "text": "[9:56:26 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:56:35.178Z",
+        "text": "[9:56:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:56:46.078Z",
+        "text": "[9:56:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:56:56.670Z",
+        "text": "[9:56:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:57:09.614Z",
+        "text": "[9:57:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:57:22.314Z",
+        "text": "[9:57:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:57:31.279Z",
+        "text": "[9:57:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:57:42.796Z",
+        "text": "[9:57:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:57:53.369Z",
+        "text": "[9:57:53 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:04.284Z",
+        "text": "[9:58:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:23.778Z",
+        "text": "[9:58:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:30.017Z",
+        "text": "[9:58:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:40.289Z",
+        "text": "[9:58:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:50.014Z",
+        "text": "[9:58:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:59.712Z",
+        "text": "[9:58:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:09.685Z",
+        "text": "[9:59:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:17.707Z",
+        "text": "[9:59:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:26.859Z",
+        "text": "[9:59:26 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:37.785Z",
+        "text": "[9:59:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:46.683Z",
+        "text": "[9:59:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:56.232Z",
+        "text": "[9:59:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:06.845Z",
+        "text": "[10:00:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:16.079Z",
+        "text": "[10:00:15 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:28.045Z",
+        "text": "[10:00:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:37.322Z",
+        "text": "[10:00:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:46.516Z",
+        "text": "[10:00:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:56.560Z",
+        "text": "[10:00:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:01:08.893Z",
+        "text": "[10:01:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:01:17.294Z",
+        "text": "[10:01:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:01:27.330Z",
+        "text": "[10:01:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:01:37.930Z",
+        "text": "[10:01:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:01:52.160Z",
+        "text": "[10:01:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:00.833Z",
+        "text": "[10:02:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:13.236Z",
+        "text": "[10:02:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:19.953Z",
+        "text": "[10:02:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:30.848Z",
+        "text": "[10:02:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:42.899Z",
+        "text": "[10:02:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:52.303Z",
+        "text": "[10:02:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:00.779Z",
+        "text": "[10:03:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:10.327Z",
+        "text": "[10:03:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:19.286Z",
+        "text": "[10:03:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:28.852Z",
+        "text": "[10:03:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:37.710Z",
+        "text": "[10:03:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:46.584Z",
+        "text": "[10:03:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:57.152Z",
+        "text": "[10:03:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:04:13.792Z",
+        "text": "[10:04:13 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:04:25.214Z",
+        "text": "[10:04:24 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:04:33.473Z",
+        "text": "[10:04:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:04:42.087Z",
+        "text": "[10:04:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:04:52.761Z",
+        "text": "[10:04:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:00.643Z",
+        "text": "[10:05:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:10.005Z",
+        "text": "[10:05:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:23.217Z",
+        "text": "[10:05:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:30.423Z",
+        "text": "[10:05:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:40.168Z",
+        "text": "[10:05:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:49.033Z",
+        "text": "[10:05:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:58.557Z",
+        "text": "[10:05:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:06:06.737Z",
+        "text": "[10:06:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:06:17.728Z",
+        "text": "[10:06:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:06:26.725Z",
+        "text": "[10:06:26 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:06:37.501Z",
+        "text": "[10:06:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:06:46.517Z",
+        "text": "[10:06:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:07:11.743Z",
+        "text": "[10:07:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:07:20.244Z",
+        "text": "[10:07:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:08:15.556Z",
+        "text": "[10:08:15 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:08:35.145Z",
+        "text": "[10:08:35 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:08:45.079Z",
+        "text": "[10:08:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:08:53.734Z",
+        "text": "[10:08:53 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:09:06.285Z",
+        "text": "[10:09:05 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:09:14.938Z",
+        "text": "[10:09:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:09:23.224Z",
+        "text": "[10:09:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:09:34.518Z",
+        "text": "[10:09:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:09:43.662Z",
+        "text": "[10:09:43 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:09:52.414Z",
+        "text": "[10:09:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:10:03.121Z",
+        "text": "[10:10:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:10:13.335Z",
+        "text": "[10:10:13 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:10:23.687Z",
+        "text": "[10:10:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:10:33.657Z",
+        "text": "[10:10:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:10:44.521Z",
+        "text": "[10:10:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:10:54.812Z",
+        "text": "[10:10:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:04.724Z",
+        "text": "[10:11:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:14.516Z",
+        "text": "[10:11:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:23.399Z",
+        "text": "[10:11:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:32.895Z",
+        "text": "[10:11:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:41.411Z",
+        "text": "[10:11:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:49.880Z",
+        "text": "[10:11:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:58.304Z",
+        "text": "[10:11:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:12:07.614Z",
+        "text": "[10:12:07 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:12:17.339Z",
+        "text": "[10:12:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:12:25.718Z",
+        "text": "[10:12:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:12:37.679Z",
+        "text": "[10:12:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:12:45.942Z",
+        "text": "[10:12:45 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:12:57.616Z",
+        "text": "[10:12:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:07.273Z",
+        "text": "[10:13:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:20.706Z",
+        "text": "[10:13:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:27.887Z",
+        "text": "[10:13:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:39.620Z",
+        "text": "[10:13:39 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:48.943Z",
+        "text": "[10:13:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:57.679Z",
+        "text": "[10:13:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:07.087Z",
+        "text": "[10:14:07 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:15.964Z",
+        "text": "[10:14:15 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:24.826Z",
+        "text": "[10:14:24 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:33.771Z",
+        "text": "[10:14:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:43.004Z",
+        "text": "[10:14:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:53.440Z",
+        "text": "[10:14:53 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:03.734Z",
+        "text": "[10:15:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:12.954Z",
+        "text": "[10:15:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:22.063Z",
+        "text": "[10:15:21 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:31.991Z",
+        "text": "[10:15:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:42.875Z",
+        "text": "[10:15:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:51.254Z",
+        "text": "[10:15:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:00.266Z",
+        "text": "[10:16:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:12.193Z",
+        "text": "[10:16:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:20.929Z",
+        "text": "[10:16:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:30.835Z",
+        "text": "[10:16:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:42.559Z",
+        "text": "[10:16:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:51.664Z",
+        "text": "[10:16:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:17:07.527Z",
+        "text": "[10:17:05 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:17:24.832Z",
+        "text": "[10:17:24 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:18:28.160Z",
+        "text": "[10:18:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:18:37.540Z",
+        "text": "[10:18:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:18:47.684Z",
+        "text": "[10:18:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:18:57.065Z",
+        "text": "[10:18:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:08.969Z",
+        "text": "[10:19:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:18.086Z",
+        "text": "[10:19:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:28.316Z",
+        "text": "[10:19:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:40.263Z",
+        "text": "[10:19:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:49.231Z",
+        "text": "[10:19:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:59.476Z",
+        "text": "[10:19:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:20:15.170Z",
+        "text": "[10:20:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:20:27.886Z",
+        "text": "[10:20:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:20:38.159Z",
+        "text": "[10:20:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:20:47.413Z",
+        "text": "[10:20:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:20:58.520Z",
+        "text": "[10:20:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:21:10.777Z",
+        "text": "[10:21:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:21:22.999Z",
+        "text": "[10:21:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:21:30.778Z",
+        "text": "[10:21:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:21:41.090Z",
+        "text": "[10:21:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:21:50.068Z",
+        "text": "[10:21:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:00.911Z",
+        "text": "[10:22:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:10.286Z",
+        "text": "[10:22:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:17.413Z",
+        "text": "[10:22:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:26.091Z",
+        "text": "[10:22:26 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:36.422Z",
+        "text": "[10:22:36 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:47.492Z",
+        "text": "[10:22:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:55.137Z",
+        "text": "[10:22:55 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:04.227Z",
+        "text": "[10:23:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:18.711Z",
+        "text": "[10:23:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:28.188Z",
+        "text": "[10:23:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:37.644Z",
+        "text": "[10:23:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:47.714Z",
+        "text": "[10:23:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:59.028Z",
+        "text": "[10:23:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:24:10.149Z",
+        "text": "[10:24:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:24:23.969Z",
+        "text": "[10:24:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:24:31.001Z",
+        "text": "[10:24:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:24:42.338Z",
+        "text": "[10:24:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:24:53.066Z",
+        "text": "[10:24:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:25:05.841Z",
+        "text": "[10:25:05 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:25:19.206Z",
+        "text": "[10:25:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:25:31.679Z",
+        "text": "[10:25:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:25:41.511Z",
+        "text": "[10:25:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:25:51.188Z",
+        "text": "[10:25:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:26:03.326Z",
+        "text": "[10:26:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:26:12.156Z",
+        "text": "[10:26:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:26:23.951Z",
+        "text": "[10:26:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:26:34.652Z",
+        "text": "[10:26:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:26:54.156Z",
+        "text": "[10:26:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:04.790Z",
+        "text": "[10:28:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:12.907Z",
+        "text": "[10:28:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:23.769Z",
+        "text": "[10:28:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:35.057Z",
+        "text": "[10:28:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:47.845Z",
+        "text": "[10:28:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:57.986Z",
+        "text": "[10:28:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:29:09.473Z",
+        "text": "[10:29:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:29:20.080Z",
+        "text": "[10:29:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:29:30.747Z",
+        "text": "[10:29:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:29:40.083Z",
+        "text": "[10:29:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:29:49.106Z",
+        "text": "[10:29:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:03.244Z",
+        "text": "[10:30:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:11.490Z",
+        "text": "[10:30:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:19.315Z",
+        "text": "[10:30:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:31.996Z",
+        "text": "[10:30:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:40.308Z",
+        "text": "[10:30:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:49.442Z",
+        "text": "[10:30:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:59.217Z",
+        "text": "[10:30:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:08.819Z",
+        "text": "[10:31:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:17.393Z",
+        "text": "[10:31:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:27.155Z",
+        "text": "[10:31:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:35.782Z",
+        "text": "[10:31:35 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:45.327Z",
+        "text": "[10:31:45 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:54.685Z",
+        "text": "[10:31:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:32:03.763Z",
+        "text": "[10:32:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:32:16.873Z",
+        "text": "[10:32:16 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:32:32.567Z",
+        "text": "[10:32:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:32:40.181Z",
+        "text": "[10:32:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:32:48.788Z",
+        "text": "[10:32:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:33:06.597Z",
+        "text": "[10:33:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:33:15.824Z",
+        "text": "[10:33:15 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:33:31.676Z",
+        "text": "[10:33:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:33:40.116Z",
+        "text": "[10:33:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:33:48.668Z",
+        "text": "[10:33:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:04.412Z",
+        "text": "[10:34:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:14.925Z",
+        "text": "[10:34:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:24.318Z",
+        "text": "[10:34:24 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:33.354Z",
+        "text": "[10:34:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:41.271Z",
+        "text": "[10:34:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:49.485Z",
+        "text": "[10:34:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:58.856Z",
+        "text": "[10:34:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:35:13.031Z",
+        "text": "[10:35:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:35:21.824Z",
+        "text": "[10:35:21 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:35:31.520Z",
+        "text": "[10:35:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:35:42.724Z",
+        "text": "[10:35:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:35:51.912Z",
+        "text": "[10:35:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:36:01.488Z",
+        "text": "[10:36:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:36:14.965Z",
+        "text": "[10:36:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:36:25.086Z",
+        "text": "[10:36:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:37:31.731Z",
+        "text": "[10:37:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:37:37.257Z",
+        "text": "[10:37:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:37:48.607Z",
+        "text": "[10:37:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:37:59.254Z",
+        "text": "[10:37:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:38:09.088Z",
+        "text": "[10:38:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:38:19.039Z",
+        "text": "[10:38:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:38:30.086Z",
+        "text": "[10:38:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:38:41.939Z",
+        "text": "[10:38:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:38:50.840Z",
+        "text": "[10:38:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:39:06.341Z",
+        "text": "[10:39:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:39:11.558Z",
+        "text": "[10:39:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:39:22.228Z",
+        "text": "[10:39:21 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:39:30.364Z",
+        "text": "[10:39:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:39:43.006Z",
+        "text": "[10:39:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:39:53.353Z",
+        "text": "[10:39:53 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:40:03.784Z",
+        "text": "[10:40:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:40:16.977Z",
+        "text": "[10:40:16 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:40:28.931Z",
+        "text": "[10:40:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:47:03.390Z",
+        "text": "[10:47:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T10:13:27.993Z",
+        "text": "[11:13:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T10:19:29.571Z",
+        "text": "[11:19:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T10:47:32.903Z",
+        "text": "[11:47:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T03:50:41.846Z",
+        "text": "[4:50:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T03:59:14.204Z",
+        "text": "[4:59:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T05:31:24.584Z",
+        "text": "[6:31:24 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T05:47:28.647Z",
+        "text": "[6:47:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:10:06.314Z",
+        "text": "[7:10:05 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:27:33.126Z",
+        "text": "[7:27:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:33:34.490Z",
+        "text": "[7:33:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:35:40.110Z",
+        "text": "[7:35:39 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:41:14.356Z",
+        "text": "[7:41:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:54:53.612Z",
+        "text": "[7:54:53 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T07:03:09.513Z",
+        "text": "[8:03:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T07:08:41.591Z",
+        "text": "[8:08:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T14:29:25.541Z",
+        "text": "[3:29:25 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T14:38:34.305Z",
+        "text": "[3:38:33 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T18:37:35.546Z",
+        "text": "[7:37:35 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T18:47:15.765Z",
+        "text": "[7:47:14 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T18:48:42.655Z",
+        "text": "[7:48:42 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T18:56:21.011Z",
+        "text": "[7:56:20 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:01:49.946Z",
+        "text": "[8:01:49 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:05:24.320Z",
+        "text": "[8:05:24 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:11:09.392Z",
+        "text": "[8:11:08 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:18:02.189Z",
+        "text": "[8:18:02 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:21:07.734Z",
+        "text": "[8:21:07 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:30:19.366Z",
+        "text": "[8:30:19 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:33:54.240Z",
+        "text": "[8:33:54 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:39:29.548Z",
+        "text": "[8:39:28 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T20:25:52.940Z",
+        "text": "[9:25:52 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T20:30:54.245Z",
+        "text": "[9:30:54 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T20:41:07.505Z",
+        "text": "[9:41:07 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T20:44:52.968Z",
+        "text": "[9:44:52 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T20:47:55.390Z",
+        "text": "[9:47:55 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T20:56:58.745Z",
+        "text": "[9:56:58 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T21:00:04.919Z",
+        "text": "[10:00:04 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T21:06:13.904Z",
+        "text": "[10:06:13 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T21:18:53.250Z",
+        "text": "[10:18:52 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T21:22:55.734Z",
+        "text": "[10:22:55 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T21:31:39.733Z",
+        "text": "[10:31:39 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T21:39:27.582Z",
+        "text": "[10:39:27 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T21:44:30.713Z",
+        "text": "[10:44:30 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T21:49:46.174Z",
+        "text": "[10:49:46 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T21:59:52.347Z",
+        "text": "[10:59:52 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T22:18:26.944Z",
+        "text": "[11:18:26 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T23:30:27.489Z",
+        "text": "[12:30:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T23:44:03.923Z",
+        "text": "[12:44:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-24T01:05:15.244Z",
+        "text": "[2:05:15 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-24T01:24:02.133Z",
+        "text": "[2:24:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-24T01:39:11.025Z",
+        "text": "[2:39:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-24T02:25:31.267Z",
+        "text": "[3:25:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-24T02:40:37.963Z",
+        "text": "[3:40:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-24T16:44:06.320Z",
+        "text": "[5:44:03 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-24T22:35:17.424Z",
+        "text": "[11:35:17 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-24T23:04:51.115Z",
+        "text": "[12:04:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T02:26:26.147Z",
+        "text": "[3:26:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T02:38:30.085Z",
+        "text": "[3:38:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T04:42:59.186Z",
+        "text": "[5:42:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T04:51:49.587Z",
+        "text": "[5:51:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T04:58:54.065Z",
+        "text": "[5:58:53 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T05:02:45.384Z",
+        "text": "[6:02:45 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T05:03:48.075Z",
+        "text": "[6:03:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T05:24:27.222Z",
+        "text": "[6:24:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T05:44:46.773Z",
+        "text": "[6:44:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T05:56:23.542Z",
+        "text": "[6:56:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T05:58:16.252Z",
+        "text": "[6:58:16 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:01:20.978Z",
+        "text": "[7:01:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:05:02.545Z",
+        "text": "[7:05:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:08:11.521Z",
+        "text": "[7:08:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:12:14.536Z",
+        "text": "[7:12:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:13:56.803Z",
+        "text": "[7:13:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:16:29.094Z",
+        "text": "[7:16:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:17:55.931Z",
+        "text": "[7:17:55 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:23:09.200Z",
+        "text": "[7:23:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:26:42.777Z",
+        "text": "[7:26:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:30:26.122Z",
+        "text": "[7:30:26 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:36:27.889Z",
+        "text": "[7:36:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:41:42.391Z",
+        "text": "[7:41:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:46:54.274Z",
+        "text": "[7:46:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:57:57.743Z",
+        "text": "[7:57:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T06:59:22.882Z",
+        "text": "[7:59:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T07:08:56.297Z",
+        "text": "[8:08:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T07:11:40.171Z",
+        "text": "[8:11:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T07:13:44.221Z",
+        "text": "[8:13:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T07:18:47.884Z",
+        "text": "[8:18:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T07:24:43.150Z",
+        "text": "[8:24:43 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T07:32:46.990Z",
+        "text": "[8:32:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T07:34:46.216Z",
+        "text": "[8:34:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T07:42:22.217Z",
+        "text": "[8:42:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T07:51:54.426Z",
+        "text": "[8:51:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T07:54:48.991Z",
+        "text": "[8:54:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T08:04:56.072Z",
+        "text": "[9:04:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T08:16:10.901Z",
+        "text": "[9:16:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T08:21:46.961Z",
+        "text": "[9:21:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T15:08:30.232Z",
+        "text": "[4:08:30 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T15:15:35.065Z",
+        "text": "[4:15:35 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T16:20:31.789Z",
+        "text": "[5:20:31 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T16:27:05.450Z",
+        "text": "[5:27:05 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T17:56:06.425Z",
+        "text": "[6:56:06 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T18:06:10.357Z",
+        "text": "[7:06:10 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T19:35:04.908Z",
+        "text": "[8:35:04 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T19:48:37.576Z",
+        "text": "[8:48:37 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-25T19:58:11.382Z",
+        "text": "[8:58:11 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T00:12:22.170Z",
+        "text": "[1:12:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T00:19:54.770Z",
+        "text": "[1:19:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T00:25:52.961Z",
+        "text": "[1:25:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T00:29:25.740Z",
+        "text": "[1:29:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T00:56:46.082Z",
+        "text": "[1:56:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T01:05:50.910Z",
+        "text": "[2:05:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T01:58:08.911Z",
+        "text": "[2:58:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T02:02:35.591Z",
+        "text": "[3:02:35 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T02:04:33.942Z",
+        "text": "[3:04:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T02:08:06.762Z",
+        "text": "[3:08:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T02:08:27.368Z",
+        "text": "[3:08:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T02:18:01.279Z",
+        "text": "[3:18:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T02:21:25.199Z",
+        "text": "[3:21:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T02:46:24.983Z",
+        "text": "[3:46:24 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T03:12:04.786Z",
+        "text": "[4:12:04 AM] PRIMARY Conectado ✅"
+      }
+    ],
+    "createdAt": "2026-02-21T18:59:01.570Z",
+    "updatedAt": "2026-02-26T03:38:06.748Z",
+    "keyword": "4a6f686e30333036"
+  },
+  "conn_1771700517574_e3p2": {
+    "id": "conn_1771700517574_e3p2",
+    "name": "every",
+    "status": "disconnected",
+    "agentId": "ag_1770876627427_3rxa1w",
+    "phoneNumber": "51933902835",
+    "logs": [
+      {
+        "time": "2026-02-21T19:02:57.119Z",
+        "text": "[8:02:56 PM] Bot Conectado y Listo ✅"
+      }
+    ],
+    "createdAt": "2026-02-21T19:01:57.574Z",
+    "updatedAt": "2026-02-23T22:42:06.099Z",
+    "keyword": "43617461"
+  },
+  "conn_1771716632752_hy1q": {
+    "id": "conn_1771716632752_hy1q",
+    "name": "anandara",
+    "status": "disconnected",
+    "agentId": "ag_1771716619160_g57ihv",
+    "phoneNumber": "51903291831",
+    "logs": [
+      {
+        "time": "2026-02-22T08:08:26.809Z",
+        "text": "[9:08:26 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:08:37.868Z",
+        "text": "[9:08:37 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:08:48.796Z",
+        "text": "[9:08:48 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:08:58.536Z",
+        "text": "[9:08:58 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:09:19.798Z",
+        "text": "[9:09:19 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:09:30.500Z",
+        "text": "[9:09:29 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:09:43.260Z",
+        "text": "[9:09:42 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:09:54.407Z",
+        "text": "[9:09:54 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:10:07.891Z",
+        "text": "[9:10:07 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:10:19.358Z",
+        "text": "[9:10:17 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:10:31.879Z",
+        "text": "[9:10:31 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:10:45.106Z",
+        "text": "[9:10:44 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:10:56.504Z",
+        "text": "[9:10:55 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:11:16.742Z",
+        "text": "[9:11:16 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:11:26.823Z",
+        "text": "[9:11:26 AM] STANDBY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:11:52.856Z",
+        "text": "[9:11:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:11:56.628Z",
+        "text": "[9:11:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:12:11.551Z",
+        "text": "[9:12:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:12:20.678Z",
+        "text": "[9:12:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:12:32.128Z",
+        "text": "[9:12:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:12:42.342Z",
+        "text": "[9:12:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:12:50.683Z",
+        "text": "[9:12:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:13:01.087Z",
+        "text": "[9:13:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:13:10.751Z",
+        "text": "[9:13:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:13:22.515Z",
+        "text": "[9:13:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:13:30.967Z",
+        "text": "[9:13:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:13:41.478Z",
+        "text": "[9:13:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:13:50.364Z",
+        "text": "[9:13:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:13:59.183Z",
+        "text": "[9:13:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:14:12.033Z",
+        "text": "[9:14:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:14:19.594Z",
+        "text": "[9:14:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:14:28.787Z",
+        "text": "[9:14:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:14:38.672Z",
+        "text": "[9:14:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:14:48.050Z",
+        "text": "[9:14:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:14:57.260Z",
+        "text": "[9:14:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:15:11.359Z",
+        "text": "[9:15:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:15:23.781Z",
+        "text": "[9:15:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:15:30.618Z",
+        "text": "[9:15:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:15:40.689Z",
+        "text": "[9:15:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:15:50.036Z",
+        "text": "[9:15:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:15:58.593Z",
+        "text": "[9:15:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:16:09.729Z",
+        "text": "[9:16:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:17:28.188Z",
+        "text": "[9:17:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:17:40.608Z",
+        "text": "[9:17:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:17:51.692Z",
+        "text": "[9:17:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:17:59.137Z",
+        "text": "[9:17:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:18:08.540Z",
+        "text": "[9:18:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:18:32.991Z",
+        "text": "[9:18:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:18:42.455Z",
+        "text": "[9:18:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:18:51.310Z",
+        "text": "[9:18:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:19:00.825Z",
+        "text": "[9:19:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:19:10.606Z",
+        "text": "[9:19:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:19:21.813Z",
+        "text": "[9:19:21 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:19:30.543Z",
+        "text": "[9:19:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:19:41.132Z",
+        "text": "[9:19:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:19:50.662Z",
+        "text": "[9:19:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:19:59.257Z",
+        "text": "[9:19:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:20:08.574Z",
+        "text": "[9:20:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:20:19.034Z",
+        "text": "[9:20:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:20:29.093Z",
+        "text": "[9:20:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:20:37.256Z",
+        "text": "[9:20:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:20:48.943Z",
+        "text": "[9:20:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:20:58.394Z",
+        "text": "[9:20:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:21:10.219Z",
+        "text": "[9:21:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:21:20.738Z",
+        "text": "[9:21:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:21:32.888Z",
+        "text": "[9:21:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:21:42.938Z",
+        "text": "[9:21:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:21:51.095Z",
+        "text": "[9:21:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:22:01.509Z",
+        "text": "[9:22:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:22:10.230Z",
+        "text": "[9:22:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:22:21.221Z",
+        "text": "[9:22:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:22:30.483Z",
+        "text": "[9:22:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:22:37.971Z",
+        "text": "[9:22:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:22:47.242Z",
+        "text": "[9:22:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:23:08.578Z",
+        "text": "[9:23:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:23:14.863Z",
+        "text": "[9:23:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:23:25.589Z",
+        "text": "[9:23:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:23:34.641Z",
+        "text": "[9:23:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:23:43.007Z",
+        "text": "[9:23:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:23:51.661Z",
+        "text": "[9:23:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:24:01.483Z",
+        "text": "[9:24:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:24:11.080Z",
+        "text": "[9:24:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:24:19.528Z",
+        "text": "[9:24:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:24:29.233Z",
+        "text": "[9:24:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:24:37.981Z",
+        "text": "[9:24:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:24:46.285Z",
+        "text": "[9:24:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:24:54.948Z",
+        "text": "[9:24:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:25:04.539Z",
+        "text": "[9:25:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:25:13.836Z",
+        "text": "[9:25:13 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:25:22.483Z",
+        "text": "[9:25:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:25:32.024Z",
+        "text": "[9:25:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:25:41.944Z",
+        "text": "[9:25:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:25:51.079Z",
+        "text": "[9:25:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:25:59.599Z",
+        "text": "[9:25:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:26:08.577Z",
+        "text": "[9:26:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:26:17.256Z",
+        "text": "[9:26:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:26:27.460Z",
+        "text": "[9:26:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:26:47.685Z",
+        "text": "[9:26:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:26:57.220Z",
+        "text": "[9:26:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:27:11.729Z",
+        "text": "[9:27:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:27:22.371Z",
+        "text": "[9:27:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:27:33.780Z",
+        "text": "[9:27:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:27:44.626Z",
+        "text": "[9:27:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:27:54.366Z",
+        "text": "[9:27:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:02.858Z",
+        "text": "[9:28:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:16.008Z",
+        "text": "[9:28:15 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:23.327Z",
+        "text": "[9:28:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:32.182Z",
+        "text": "[9:28:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:41.148Z",
+        "text": "[9:28:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:28:53.682Z",
+        "text": "[9:28:53 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:29:06.187Z",
+        "text": "[9:29:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:29:13.497Z",
+        "text": "[9:29:13 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:29:22.086Z",
+        "text": "[9:29:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:30:33.303Z",
+        "text": "[9:30:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:30:45.305Z",
+        "text": "[9:30:45 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:30:58.621Z",
+        "text": "[9:30:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:08.832Z",
+        "text": "[9:31:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:17.603Z",
+        "text": "[9:31:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:27.652Z",
+        "text": "[9:31:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:35.742Z",
+        "text": "[9:31:35 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:45.564Z",
+        "text": "[9:31:45 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:31:58.608Z",
+        "text": "[9:31:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:32:17.033Z",
+        "text": "[9:32:16 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:32:25.570Z",
+        "text": "[9:32:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:32:39.283Z",
+        "text": "[9:32:39 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:32:46.293Z",
+        "text": "[9:32:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:32:57.766Z",
+        "text": "[9:32:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:33:07.427Z",
+        "text": "[9:33:07 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:33:22.545Z",
+        "text": "[9:33:21 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:33:30.169Z",
+        "text": "[9:33:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:33:40.429Z",
+        "text": "[9:33:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:33:49.597Z",
+        "text": "[9:33:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:34:01.047Z",
+        "text": "[9:34:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:34:12.314Z",
+        "text": "[9:34:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:34:21.957Z",
+        "text": "[9:34:21 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:34:31.187Z",
+        "text": "[9:34:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:34:43.677Z",
+        "text": "[9:34:43 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:34:52.239Z",
+        "text": "[9:34:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:01.257Z",
+        "text": "[9:35:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:10.750Z",
+        "text": "[9:35:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:19.988Z",
+        "text": "[9:35:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:28.555Z",
+        "text": "[9:35:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:39.164Z",
+        "text": "[9:35:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:47.905Z",
+        "text": "[9:35:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:35:58.599Z",
+        "text": "[9:35:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:36:08.751Z",
+        "text": "[9:36:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:36:18.240Z",
+        "text": "[9:36:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:36:28.987Z",
+        "text": "[9:36:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:36:38.428Z",
+        "text": "[9:36:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:36:47.512Z",
+        "text": "[9:36:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:36:57.731Z",
+        "text": "[9:36:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:37:25.539Z",
+        "text": "[9:37:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:37:34.680Z",
+        "text": "[9:37:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:37:44.791Z",
+        "text": "[9:37:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:02.481Z",
+        "text": "[9:38:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:19.394Z",
+        "text": "[9:38:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:28.679Z",
+        "text": "[9:38:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:38.965Z",
+        "text": "[9:38:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:48.862Z",
+        "text": "[9:38:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:38:59.390Z",
+        "text": "[9:38:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:40:05.518Z",
+        "text": "[9:40:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:40:12.656Z",
+        "text": "[9:40:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:40:23.205Z",
+        "text": "[9:40:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:40:31.603Z",
+        "text": "[9:40:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:40:43.828Z",
+        "text": "[9:40:43 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:40:54.848Z",
+        "text": "[9:40:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:41:13.416Z",
+        "text": "[9:41:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:41:20.255Z",
+        "text": "[9:41:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:41:31.320Z",
+        "text": "[9:41:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:41:41.848Z",
+        "text": "[9:41:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:41:51.325Z",
+        "text": "[9:41:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:02.114Z",
+        "text": "[9:42:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:12.859Z",
+        "text": "[9:42:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:23.093Z",
+        "text": "[9:42:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:37.425Z",
+        "text": "[9:42:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:47.494Z",
+        "text": "[9:42:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:42:57.521Z",
+        "text": "[9:42:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:43:10.298Z",
+        "text": "[9:43:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:43:19.448Z",
+        "text": "[9:43:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:43:28.275Z",
+        "text": "[9:43:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:43:36.954Z",
+        "text": "[9:43:36 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:43:46.369Z",
+        "text": "[9:43:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:43:55.693Z",
+        "text": "[9:43:55 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:44:05.340Z",
+        "text": "[9:44:05 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:44:22.170Z",
+        "text": "[9:44:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:44:33.386Z",
+        "text": "[9:44:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:44:45.138Z",
+        "text": "[9:44:45 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:44:53.484Z",
+        "text": "[9:44:53 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:45:08.535Z",
+        "text": "[9:45:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:45:22.595Z",
+        "text": "[9:45:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:45:32.584Z",
+        "text": "[9:45:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:45:44.585Z",
+        "text": "[9:45:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:45:54.922Z",
+        "text": "[9:45:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:46:05.587Z",
+        "text": "[9:46:05 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:46:17.346Z",
+        "text": "[9:46:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:46:28.422Z",
+        "text": "[9:46:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:46:39.782Z",
+        "text": "[9:46:39 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:46:49.364Z",
+        "text": "[9:46:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:46:58.618Z",
+        "text": "[9:46:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:47:12.494Z",
+        "text": "[9:47:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:47:23.501Z",
+        "text": "[9:47:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:47:33.033Z",
+        "text": "[9:47:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:47:42.285Z",
+        "text": "[9:47:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:47:51.781Z",
+        "text": "[9:47:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:48:01.129Z",
+        "text": "[9:48:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:48:11.542Z",
+        "text": "[9:48:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:48:21.203Z",
+        "text": "[9:48:21 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:48:33.416Z",
+        "text": "[9:48:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:48:44.167Z",
+        "text": "[9:48:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:49:48.558Z",
+        "text": "[9:49:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:50:08.260Z",
+        "text": "[9:50:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:50:19.723Z",
+        "text": "[9:50:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:50:41.988Z",
+        "text": "[9:50:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:50:54.024Z",
+        "text": "[9:50:53 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:51:04.371Z",
+        "text": "[9:51:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:51:13.984Z",
+        "text": "[9:51:13 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:51:25.740Z",
+        "text": "[9:51:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:51:35.645Z",
+        "text": "[9:51:35 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:51:47.626Z",
+        "text": "[9:51:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:03.050Z",
+        "text": "[9:52:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:10.854Z",
+        "text": "[9:52:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:20.911Z",
+        "text": "[9:52:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:29.133Z",
+        "text": "[9:52:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:40.513Z",
+        "text": "[9:52:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:48.826Z",
+        "text": "[9:52:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:52:59.278Z",
+        "text": "[9:52:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:53:12.591Z",
+        "text": "[9:53:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:53:22.228Z",
+        "text": "[9:53:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:53:32.898Z",
+        "text": "[9:53:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:53:43.557Z",
+        "text": "[9:53:43 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:53:52.050Z",
+        "text": "[9:53:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:01.891Z",
+        "text": "[9:54:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:13.256Z",
+        "text": "[9:54:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:23.910Z",
+        "text": "[9:54:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:34.243Z",
+        "text": "[9:54:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:43.457Z",
+        "text": "[9:54:43 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:54:55.820Z",
+        "text": "[9:54:55 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:55:09.528Z",
+        "text": "[9:55:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:55:22.945Z",
+        "text": "[9:55:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:55:33.713Z",
+        "text": "[9:55:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:55:40.828Z",
+        "text": "[9:55:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:55:59.653Z",
+        "text": "[9:55:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:56:16.981Z",
+        "text": "[9:56:16 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:56:27.604Z",
+        "text": "[9:56:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:56:35.719Z",
+        "text": "[9:56:35 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:56:45.748Z",
+        "text": "[9:56:45 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:56:56.607Z",
+        "text": "[9:56:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:57:11.666Z",
+        "text": "[9:57:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:57:26.734Z",
+        "text": "[9:57:26 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:57:39.313Z",
+        "text": "[9:57:39 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:57:51.081Z",
+        "text": "[9:57:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:00.036Z",
+        "text": "[9:57:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:09.380Z",
+        "text": "[9:58:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:23.762Z",
+        "text": "[9:58:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:30.907Z",
+        "text": "[9:58:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:40.994Z",
+        "text": "[9:58:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:58:51.020Z",
+        "text": "[9:58:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:02.976Z",
+        "text": "[9:59:02 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:12.228Z",
+        "text": "[9:59:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:20.590Z",
+        "text": "[9:59:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:30.232Z",
+        "text": "[9:59:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:40.269Z",
+        "text": "[9:59:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:48.836Z",
+        "text": "[9:59:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T08:59:56.977Z",
+        "text": "[9:59:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:07.864Z",
+        "text": "[10:00:07 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:15.876Z",
+        "text": "[10:00:15 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:25.421Z",
+        "text": "[10:00:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:33.739Z",
+        "text": "[10:00:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:44.580Z",
+        "text": "[10:00:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:00:56.487Z",
+        "text": "[10:00:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:01:08.870Z",
+        "text": "[10:01:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:01:17.975Z",
+        "text": "[10:01:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:01:27.389Z",
+        "text": "[10:01:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:01:37.509Z",
+        "text": "[10:01:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:01:48.010Z",
+        "text": "[10:01:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:01:57.495Z",
+        "text": "[10:01:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:09.438Z",
+        "text": "[10:02:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:17.176Z",
+        "text": "[10:02:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:28.535Z",
+        "text": "[10:02:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:37.645Z",
+        "text": "[10:02:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:44.464Z",
+        "text": "[10:02:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:02:52.770Z",
+        "text": "[10:02:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:02.016Z",
+        "text": "[10:03:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:10.528Z",
+        "text": "[10:03:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:19.746Z",
+        "text": "[10:03:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:27.798Z",
+        "text": "[10:03:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:36.993Z",
+        "text": "[10:03:36 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:46.437Z",
+        "text": "[10:03:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:03:56.765Z",
+        "text": "[10:03:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:04:11.792Z",
+        "text": "[10:04:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:04:21.662Z",
+        "text": "[10:04:21 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:04:31.036Z",
+        "text": "[10:04:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:04:40.303Z",
+        "text": "[10:04:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:04:49.221Z",
+        "text": "[10:04:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:04:58.110Z",
+        "text": "[10:04:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:09.668Z",
+        "text": "[10:05:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:20.712Z",
+        "text": "[10:05:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:28.191Z",
+        "text": "[10:05:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:38.707Z",
+        "text": "[10:05:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:48.249Z",
+        "text": "[10:05:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:05:58.508Z",
+        "text": "[10:05:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:06:07.191Z",
+        "text": "[10:06:07 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:06:16.928Z",
+        "text": "[10:06:16 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:06:25.743Z",
+        "text": "[10:06:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:06:34.820Z",
+        "text": "[10:06:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:06:42.795Z",
+        "text": "[10:06:42 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:06:53.050Z",
+        "text": "[10:06:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:07:04.261Z",
+        "text": "[10:07:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:07:14.978Z",
+        "text": "[10:07:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:07:23.507Z",
+        "text": "[10:07:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:08:27.588Z",
+        "text": "[10:08:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:09:37.474Z",
+        "text": "[10:09:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:09:46.400Z",
+        "text": "[10:09:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:09:55.889Z",
+        "text": "[10:09:55 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:10:07.280Z",
+        "text": "[10:10:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:10:17.291Z",
+        "text": "[10:10:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:10:26.734Z",
+        "text": "[10:10:26 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:10:41.483Z",
+        "text": "[10:10:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:10:50.586Z",
+        "text": "[10:10:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:01.803Z",
+        "text": "[10:11:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:10.054Z",
+        "text": "[10:11:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:19.685Z",
+        "text": "[10:11:19 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:28.805Z",
+        "text": "[10:11:28 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:38.122Z",
+        "text": "[10:11:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:46.590Z",
+        "text": "[10:11:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:11:56.298Z",
+        "text": "[10:11:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:12:05.519Z",
+        "text": "[10:12:05 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:12:15.304Z",
+        "text": "[10:12:15 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:12:24.385Z",
+        "text": "[10:12:24 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:12:33.541Z",
+        "text": "[10:12:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:12:46.494Z",
+        "text": "[10:12:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:00.070Z",
+        "text": "[10:12:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:12.252Z",
+        "text": "[10:13:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:23.510Z",
+        "text": "[10:13:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:32.697Z",
+        "text": "[10:13:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:43.994Z",
+        "text": "[10:13:43 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:13:53.939Z",
+        "text": "[10:13:53 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:04.781Z",
+        "text": "[10:14:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:13.542Z",
+        "text": "[10:14:13 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:22.417Z",
+        "text": "[10:14:22 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:32.361Z",
+        "text": "[10:14:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:40.868Z",
+        "text": "[10:14:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:14:50.563Z",
+        "text": "[10:14:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:00.361Z",
+        "text": "[10:15:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:12.738Z",
+        "text": "[10:15:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:21.890Z",
+        "text": "[10:15:21 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:31.914Z",
+        "text": "[10:15:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:43.353Z",
+        "text": "[10:15:43 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:15:51.624Z",
+        "text": "[10:15:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:00.885Z",
+        "text": "[10:16:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:11.861Z",
+        "text": "[10:16:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:20.413Z",
+        "text": "[10:16:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:30.711Z",
+        "text": "[10:16:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:40.774Z",
+        "text": "[10:16:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:16:50.316Z",
+        "text": "[10:16:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:17:05.114Z",
+        "text": "[10:17:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:17:21.831Z",
+        "text": "[10:17:21 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:18:28.025Z",
+        "text": "[10:18:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:18:38.389Z",
+        "text": "[10:18:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:18:47.494Z",
+        "text": "[10:18:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:18:57.036Z",
+        "text": "[10:18:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:08.490Z",
+        "text": "[10:19:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:18.044Z",
+        "text": "[10:19:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:28.293Z",
+        "text": "[10:19:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:40.250Z",
+        "text": "[10:19:39 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:50.352Z",
+        "text": "[10:19:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:19:59.644Z",
+        "text": "[10:19:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:20:15.617Z",
+        "text": "[10:20:15 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:20:27.812Z",
+        "text": "[10:20:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:20:38.693Z",
+        "text": "[10:20:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:20:48.777Z",
+        "text": "[10:20:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:20:59.426Z",
+        "text": "[10:20:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:21:11.602Z",
+        "text": "[10:21:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:21:22.991Z",
+        "text": "[10:21:21 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:21:30.681Z",
+        "text": "[10:21:30 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:21:40.995Z",
+        "text": "[10:21:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:21:50.552Z",
+        "text": "[10:21:50 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:00.804Z",
+        "text": "[10:22:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:11.323Z",
+        "text": "[10:22:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:18.763Z",
+        "text": "[10:22:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:27.942Z",
+        "text": "[10:22:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:38.508Z",
+        "text": "[10:22:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:22:54.425Z",
+        "text": "[10:22:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:03.569Z",
+        "text": "[10:23:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:17.159Z",
+        "text": "[10:23:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:26.311Z",
+        "text": "[10:23:26 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:37.984Z",
+        "text": "[10:23:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:48.271Z",
+        "text": "[10:23:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:23:59.097Z",
+        "text": "[10:23:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:24:10.230Z",
+        "text": "[10:24:10 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:24:25.157Z",
+        "text": "[10:24:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:24:34.169Z",
+        "text": "[10:24:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:24:45.075Z",
+        "text": "[10:24:44 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:24:54.949Z",
+        "text": "[10:24:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:25:03.231Z",
+        "text": "[10:25:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:25:18.590Z",
+        "text": "[10:25:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:25:31.700Z",
+        "text": "[10:25:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:25:41.919Z",
+        "text": "[10:25:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:25:52.706Z",
+        "text": "[10:25:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:26:06.081Z",
+        "text": "[10:26:05 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:26:13.950Z",
+        "text": "[10:26:13 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:26:27.760Z",
+        "text": "[10:26:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:26:53.970Z",
+        "text": "[10:26:53 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:04.408Z",
+        "text": "[10:28:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:12.546Z",
+        "text": "[10:28:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:23.917Z",
+        "text": "[10:28:23 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:34.955Z",
+        "text": "[10:28:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:47.249Z",
+        "text": "[10:28:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:28:57.858Z",
+        "text": "[10:28:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:29:08.733Z",
+        "text": "[10:29:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:29:20.378Z",
+        "text": "[10:29:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:29:31.393Z",
+        "text": "[10:29:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:29:40.663Z",
+        "text": "[10:29:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:29:49.390Z",
+        "text": "[10:29:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:01.055Z",
+        "text": "[10:30:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:09.599Z",
+        "text": "[10:30:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:18.548Z",
+        "text": "[10:30:18 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:31.053Z",
+        "text": "[10:30:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:38.699Z",
+        "text": "[10:30:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:48.081Z",
+        "text": "[10:30:48 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:30:57.687Z",
+        "text": "[10:30:57 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:06.427Z",
+        "text": "[10:31:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:17.007Z",
+        "text": "[10:31:16 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:25.703Z",
+        "text": "[10:31:25 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:34.394Z",
+        "text": "[10:31:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:43.955Z",
+        "text": "[10:31:43 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:31:54.207Z",
+        "text": "[10:31:54 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:32:03.358Z",
+        "text": "[10:32:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:32:13.458Z",
+        "text": "[10:32:13 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:32:30.052Z",
+        "text": "[10:32:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:32:37.388Z",
+        "text": "[10:32:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:32:46.408Z",
+        "text": "[10:32:46 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:33:01.920Z",
+        "text": "[10:33:01 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:33:13.120Z",
+        "text": "[10:33:13 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:33:29.630Z",
+        "text": "[10:33:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:33:37.118Z",
+        "text": "[10:33:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:33:46.018Z",
+        "text": "[10:33:45 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:33:55.737Z",
+        "text": "[10:33:55 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:12.145Z",
+        "text": "[10:34:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:20.822Z",
+        "text": "[10:34:20 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:31.506Z",
+        "text": "[10:34:31 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:40.789Z",
+        "text": "[10:34:40 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:49.425Z",
+        "text": "[10:34:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:34:59.690Z",
+        "text": "[10:34:59 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:35:16.212Z",
+        "text": "[10:35:16 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:35:29.218Z",
+        "text": "[10:35:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:35:41.205Z",
+        "text": "[10:35:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:35:49.560Z",
+        "text": "[10:35:49 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:36:00.176Z",
+        "text": "[10:36:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:36:12.424Z",
+        "text": "[10:36:11 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:36:24.323Z",
+        "text": "[10:36:24 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:37:33.662Z",
+        "text": "[10:37:33 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:37:36.880Z",
+        "text": "[10:37:36 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:37:48.366Z",
+        "text": "[10:37:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:37:58.401Z",
+        "text": "[10:37:58 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:38:08.614Z",
+        "text": "[10:38:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:38:17.522Z",
+        "text": "[10:38:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:38:27.447Z",
+        "text": "[10:38:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:38:38.289Z",
+        "text": "[10:38:38 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:38:47.303Z",
+        "text": "[10:38:47 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:38:56.753Z",
+        "text": "[10:38:56 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:39:08.625Z",
+        "text": "[10:39:08 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:39:17.212Z",
+        "text": "[10:39:17 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:39:29.152Z",
+        "text": "[10:39:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:39:41.670Z",
+        "text": "[10:39:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:39:53.183Z",
+        "text": "[10:39:52 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:40:03.150Z",
+        "text": "[10:40:03 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:40:12.882Z",
+        "text": "[10:40:12 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:40:28.443Z",
+        "text": "[10:40:27 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:47:00.379Z",
+        "text": "[10:47:00 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T09:56:35.402Z",
+        "text": "[10:56:35 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T10:13:27.960Z",
+        "text": "[11:13:26 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T10:19:29.464Z",
+        "text": "[11:19:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-22T10:47:33.013Z",
+        "text": "[11:47:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T03:50:42.116Z",
+        "text": "[4:50:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T03:59:14.183Z",
+        "text": "[4:59:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T05:31:24.512Z",
+        "text": "[6:31:24 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T05:47:29.098Z",
+        "text": "[6:47:29 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:10:06.456Z",
+        "text": "[7:10:06 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:27:33.074Z",
+        "text": "[7:27:32 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:33:34.401Z",
+        "text": "[7:33:34 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:35:37.319Z",
+        "text": "[7:35:37 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:41:14.766Z",
+        "text": "[7:41:14 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T06:54:51.858Z",
+        "text": "[7:54:51 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T07:03:09.538Z",
+        "text": "[8:03:09 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T07:08:41.315Z",
+        "text": "[8:08:41 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T14:29:25.595Z",
+        "text": "[3:29:25 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T14:38:34.383Z",
+        "text": "[3:38:34 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T17:21:13.109Z",
+        "text": "[6:21:12 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T18:21:40.395Z",
+        "text": "[7:21:40 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T18:48:43.071Z",
+        "text": "[7:48:42 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T18:56:20.987Z",
+        "text": "[7:56:20 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:01:49.910Z",
+        "text": "[8:01:49 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:05:24.485Z",
+        "text": "[8:05:24 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:11:08.921Z",
+        "text": "[8:11:07 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:18:03.551Z",
+        "text": "[8:18:03 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:21:07.468Z",
+        "text": "[8:21:07 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:30:19.474Z",
+        "text": "[8:30:19 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:33:54.218Z",
+        "text": "[8:33:53 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-23T19:39:29.226Z",
+        "text": "[8:39:27 PM] PRIMARY Conectado ✅"
+      }
+    ],
+    "createdAt": "2026-02-21T23:30:32.752Z",
+    "updatedAt": "2026-02-23T22:42:03.239Z",
+    "keyword": "486f6c6973746963"
+  },
+  "conn_1772051142206_6bhl": {
+    "id": "conn_1772051142206_6bhl",
+    "name": "Lethal",
+    "status": "disconnected",
+    "agentId": "ag_1772051090455_p4hn34",
+    "phoneNumber": "51973502424",
+    "logs": [
+      {
+        "time": "2026-02-25T20:26:46.610Z",
+        "text": "[9:26:46 PM] PRIMARY Conectado ✅"
+      }
+    ],
+    "keyword": "4a6f686e30333036",
+    "createdAt": "2026-02-25T20:25:42.206Z",
+    "updatedAt": "2026-02-25T21:43:49.803Z"
+  }
+}

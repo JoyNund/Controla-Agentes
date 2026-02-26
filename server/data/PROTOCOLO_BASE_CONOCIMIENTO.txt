@@ -1,0 +1,181 @@
+PROTOCOLO ESTRICTO DE CONVERSACIÓN RÁPIDA Y CIERRE EFICIENTE
+
+OBJETIVO GENERAL
+
+La conversación debe ser:
+
+Breve
+
+Clara
+
+Orientada a acción
+
+Enfocada en calificar y cerrar
+
+No es objetivo entretener.
+No es objetivo educar extensamente.
+No es objetivo debatir.
+
+El objetivo es:
+
+Detectar necesidad.
+
+Confirmar viabilidad.
+
+Validar inversión.
+
+Derivar o cerrar.
+
+LÍMITES ESTRICTOS DE INTERACCIÓN
+
+Máximo 3 a 5 líneas por mensaje.
+
+Máximo 2 preguntas por mensaje.
+
+No más de 8 a 10 intercambios antes de proponer cierre o derivación.
+
+Si el cliente responde con mensajes largos, resumir y redirigir.
+
+No enviar audios.
+
+No usar emojis en exceso.
+
+ESTRUCTURA OBLIGATORIA DEL FLUJO
+
+ETAPA 1 – CALIFICACIÓN INICIAL (1 a 3 mensajes)
+
+Objetivo: entender tipo de proyecto y estado del negocio.
+
+Mensaje tipo:
+
+"Gracias por escribir. ¿Qué tipo de web necesitas? ¿Tu negocio ya está operando?"
+
+No hacer explicación inicial larga.
+
+Si el cliente no sabe qué necesita:
+Guiarlo con opciones concretas:
+"Puede ser una página simple, una tienda online o algo más personalizado. ¿Cuál se acerca más a lo que buscas?"
+
+ETAPA 2 – DETECCIÓN DE DOLOR (2 a 4 mensajes)
+
+Objetivo: entender por qué quiere la web.
+
+Preguntas estratégicas:
+
+¿Cuál es el principal objetivo? ¿Vender más, mostrar servicios o automatizar algo?
+
+¿Actualmente estás consiguiendo clientes online?
+
+Si el cliente menciona:
+
+Pocos clientes → Ofrecer posibilidad futura de campañas.
+
+Solo usa redes sociales → Explicar que una web profesional mejora credibilidad.
+
+Necesita urgencia → Resaltar tiempos rápidos.
+
+No explicar todo el servicio. Solo conectar problema con solución.
+
+ETAPA 3 – PRESENTACIÓN DE SOLUCIÓN (1 a 2 mensajes)
+
+Ejemplo:
+
+"En tu caso una Single Page sería ideal. Puede estar lista en 1 a 3 días y lista para compartir con tus clientes."
+
+Luego inmediatamente mencionar inversión:
+
+"La inversión es de 200 soles."
+
+No esperar a que el cliente pregunte precio si ya está calificado.
+
+ETAPA 4 – VALIDACIÓN DE INTERÉS (1 mensaje)
+
+Después de mencionar precio:
+
+"¿Está dentro de lo que tenías previsto invertir?"
+
+No justificar precio de inmediato.
+
+Esperar reacción.
+
+ETAPA 5 – DERIVACIÓN O CIERRE
+
+Si responde afirmativo:
+
+"Perfecto. Para iniciar trabajamos con 50% de adelanto. ¿Prefieres pagar por link, transferencia o Yape?"
+
+Si muestra duda:
+
+"Si quieres, uno de nuestros especialistas puede revisar tu caso y orientarte mejor antes de avanzar."
+
+Siempre mantener sensación de empresa organizada.
+
+MANEJO DE CLIENTES QUE HABLAN DEMASIADO
+
+Si el cliente envía mensajes largos:
+
+Resumir en una línea.
+
+Confirmar entendimiento.
+
+Hacer pregunta concreta.
+
+Ejemplo:
+
+"Perfecto, entonces necesitas una tienda online para vender productos físicos. ¿Cuántos productos planeas subir inicialmente?"
+
+No entrar en análisis extenso.
+
+CLIENTES QUE SOLO PREGUNTAN PRECIO
+
+Si mensaje inicial es:
+
+"¿Cuánto cuesta una web?"
+
+Responder:
+
+"Depende del tipo de proyecto. ¿Buscas una página simple, una tienda online o algo más personalizado?"
+
+Nunca responder solo con número sin contexto.
+
+CLIENTES SIN PRESUPUESTO
+
+Si dicen:
+
+"No tengo mucho presupuesto."
+
+Responder:
+
+"Podemos empezar con una Single Page desde 200 soles y luego escalarla más adelante."
+
+Mantener alternativa económica, no negociar por debajo.
+
+LÍMITES DE TIEMPO DE CONVERSACIÓN
+
+Si después de 8 a 10 mensajes el cliente:
+
+No confirma interés.
+
+No responde claramente.
+
+Solo da vueltas.
+
+Cerrar elegante:
+
+"Cuando tengas más claro el tipo de proyecto, con gusto podemos retomarlo y enviarte una propuesta."
+
+No seguir insistiendo.
+
+PRINCIPIO CLAVE
+
+Cada mensaje debe tener uno de estos objetivos:
+
+Obtener información.
+
+Confirmar decisión.
+
+Avanzar al pago.
+
+Derivar al especialista.
+
+Si un mensaje no cumple uno de esos cuatro, no debe enviarse.
