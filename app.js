@@ -1191,21 +1191,64 @@ async function createSocketInSlot(connectionId, slot, agentConfig) {
                     createSocketInSlot(connectionId, slot, agentConfig)
                 }, delay)
             } else {
-                // Logout
+                // Logout detectado (WhatsApp cerró sesión)
                 console.log(`[${connectionId}] [${slot.toUpperCase()}] Logout detectado`)
+                console.error(`[${connectionId}] === DEBUG LOGOUT === slot=${slot}, activeSlot=${conn?.activeSlot || 'N/A'}, standby.connected=${conn?.standby?.connected || 'N/A'}`)
                 slotsReconectando.delete(slot)
-                
+
+                // Eliminar sesión corrupta para forzar generación de QR nuevo
+                const sessionPath = path.join(SESSIONS_DIR, connectionId)
+                if (fs.existsSync(sessionPath)) {
+                    console.log(`[${connectionId}] 🗑️ Eliminando sesión corrupta: ${sessionPath}`)
+                    try {
+                        fs.rmSync(sessionPath, { recursive: true, force: true })
+                        console.log(`[${connectionId}] ✅ Sesión eliminada`)
+                    } catch (error) {
+                        console.error(`[${connectionId}] ❌ Error eliminando sesión:`, error.message)
+                    }
+                }
+
+                // Eliminar QR anterior si existe
+                const qrPath = path.join(DATA_DIR, `qr_${connectionId}.png`)
+                if (fs.existsSync(qrPath)) {
+                    try {
+                        fs.unlinkSync(qrPath)
+                        console.log(`[${connectionId}] QR anterior eliminado`)
+                    } catch (e) {}
+                }
+
                 if (slot === conn.activeSlot) {
+                    console.log(`[${connectionId}] Slot activo, verificando failover...`)
                     // El slot activo hizo logout, intentar failover
                     if (slot === 'primary' && conn.standby?.connected) {
+                        console.log(`[${connectionId}] Ejecutando failover...`)
                         await executeFailover(connectionId)
                     } else {
-                        // No hay backup, marcar como desconectado
+                        console.log(`[${connectionId}] No hay failover, generando QR nuevo...`)
+                        // No hay backup: marcar como desconectado y generar QR nuevo
                         axios.post(`${API_URL}/api/connections/${connectionId}/status`,
                             { status: 'disconnected' },
                             apiHeaders
                         ).catch(() => {})
+
+                        // Reiniciar socket después de 3 segundos para generar QR nuevo
+                        console.log(`[${connectionId}] 🔄 Reiniciando socket para generar QR nuevo en 3s...`)
+                        setTimeout(async () => {
+                            try {
+                                // Crear directorio de sesión vacío
+                                if (!fs.existsSync(sessionPath)) {
+                                    fs.mkdirSync(sessionPath, { recursive: true })
+                                }
+                                // Reiniciar socket - esto generará QR automáticamente
+                                console.log(`[${connectionId}] [${slot.toUpperCase()}] Reiniciando socket...`)
+                                await createSocketInSlot(connectionId, slot, agentConfig)
+                            } catch (error) {
+                                console.error(`[${connectionId}] Error reiniciando socket:`, error.message)
+                            }
+                        }, 3000)
                     }
+                } else {
+                    console.log(`[${connectionId}] Slot NO activo (${slot} != ${conn.activeSlot}), omitiendo...`)
                 }
             }
         }
