@@ -5929,11 +5929,21 @@
         "body": "Veo que enviaste un enlace de WhatsApp. ¿Podrías contarme qué es o en qué puedo ayudarte con él?",
         "from": "bot",
         "at": "2026-02-26T02:35:18.776Z"
+      },
+      {
+        "body": "Hola",
+        "from": "user",
+        "at": "2026-02-26T16:20:49.494Z"
+      },
+      {
+        "body": "Hola, soy CONTROLA.AI ¿cómo te puedo ayudar? 👀",
+        "from": "bot",
+        "at": "2026-02-26T16:20:52.011Z"
       }
     ],
     "tag": null,
     "createdAt": "2026-02-20T22:55:01.427Z",
-    "updatedAt": "2026-02-26T02:35:18.780Z"
+    "updatedAt": "2026-02-26T16:20:52.021Z"
   },
   {
     "id": "223754928001176@lid",

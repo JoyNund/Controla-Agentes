@@ -2,26 +2,10 @@
   "conn_1771700341570_k4fg": {
     "id": "conn_1771700341570_k4fg",
     "name": "nuevooo",
-    "status": "connecting",
+    "status": "connected",
     "agentId": "ag_1771820574440_o3932v",
     "phoneNumber": "51903172378",
     "logs": [
-      {
-        "time": "2026-02-22T08:26:22.724Z",
-        "text": "[9:26:22 AM] PRIMARY Conectado ✅"
-      },
-      {
-        "time": "2026-02-22T08:26:31.671Z",
-        "text": "[9:26:31 AM] PRIMARY Conectado ✅"
-      },
-      {
-        "time": "2026-02-22T08:26:42.702Z",
-        "text": "[9:26:42 AM] PRIMARY Conectado ✅"
-      },
-      {
-        "time": "2026-02-22T08:26:51.063Z",
-        "text": "[9:26:51 AM] PRIMARY Conectado ✅"
-      },
       {
         "time": "2026-02-22T08:27:02.400Z",
         "text": "[9:27:00 AM] PRIMARY Conectado ✅"
@@ -2005,10 +1989,26 @@
       {
         "time": "2026-02-26T03:12:04.786Z",
         "text": "[4:12:04 AM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T04:19:23.186Z",
+        "text": "[5:19:23 AM] Reiniciando conexión"
+      },
+      {
+        "time": "2026-02-26T04:20:02.414Z",
+        "text": "[5:20:02 AM] Reiniciando conexión"
+      },
+      {
+        "time": "2026-02-26T16:20:34.323Z",
+        "text": "[5:20:33 PM] PRIMARY Conectado ✅"
+      },
+      {
+        "time": "2026-02-26T16:39:06.116Z",
+        "text": "[5:39:06 PM] PRIMARY Conectado ✅"
       }
     ],
     "createdAt": "2026-02-21T18:59:01.570Z",
-    "updatedAt": "2026-02-26T03:38:06.748Z",
+    "updatedAt": "2026-02-26T16:39:06.032Z",
     "keyword": "4a6f686e30333036"
   },
   "conn_1771700517574_e3p2": {
