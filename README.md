@@ -6,8 +6,30 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Business-25D366.svg)](https://www.whatsapp.com/business/)
 
-**Versión:** 2.6.0 (Beta)  
+**Versión:** 2.6.0 (Beta)
 **Estado:** ✅ Funcional en producción
+**Próxima versión:** 3.0.0 (Commercial - Multi-tenant)
+
+---
+
+## 📊 Plan de Escalamiento
+
+Este proyecto está en transición hacia una **versión comercial escalable** con las siguientes características:
+
+### Modelo Híbrido (SaaS + Self-Hosted)
+- **SaaS Multi-Tenant**: Suscripción mensual ($29-299/mes) con hosting incluido
+- **Self-Hosted**: License perpetua ($299-2499) para instalación local
+- **License Server Central**: Validación de licencias y feature flags
+
+### Roadmap v3.0
+- [ ] Migración a PostgreSQL con Row Level Security
+- [ ] Autenticación JWT multi-usuario
+- [ ] Sistema de billing con Stripe
+- [ ] Dashboard administrativo multi-tenant
+- [ ] Rate limiting y quotas por tenant
+- [ ] Kubernetes/Docker para auto-scaling
+
+Ver [PLAN_ESCALAMIENTO_2026.md](./PLAN_ESCALAMIENTO_2026.md) para detalles completos.
 
 ---
 
@@ -88,6 +110,17 @@
 ---
 
 ## ⚙️ Instalación
+
+### Entornos Disponibles
+
+El proyecto cuenta con **dos entornos completamente aislados**:
+
+| Entorno | Ubicación | Puertos | Propósito |
+|---------|-----------|---------|-----------|
+| **BETA** | `/var/www/agentes` | 3847/3848 | Producción actual |
+| **COMMERCIAL** | `/var/www/agentes-commercial` | 3947/3948 | Desarrollo v3.0 |
+
+Ver [SEPARACION_ENTORNOS.md](./SEPARACION_ENTORNOS.md) para más detalles.
 
 ### 1. Clonar el repositorio
 
@@ -345,18 +378,56 @@ DELETE /api/citas/:id           # Eliminar cita
 
 ## 🛣️ Roadmap
 
-### Versión 3.0 (Q2 2026)
-- [ ] Multi-tenant con PostgreSQL
-- [ ] Autenticación de usuarios (JWT)
-- [ ] Sistema de planes y billing (Stripe)
-- [ ] Dashboard de analytics
-- [ ] License Server para self-hosted
+### Versión 3.0 - Commercial (Q2 2026) - **En Desarrollo**
 
-### Versión 2.7 (Q1 2026)
+**Modelo:** Híbrido (SaaS + Self-Hosted)
+
+#### Fase 1: Preparación (2-3 semanas)
+- [ ] Migración de JSON a PostgreSQL
+- [ ] Implementación de Auth JWT
+- [ ] Tenant isolation con Row Level Security
+- [ ] Feature flags por plan/tenant
+
+#### Fase 2: Multi-Tenant Core (4-6 semanas)
+- [ ] Database layer con tenant context
+- [ ] API actualizada para multi-tenant
+- [ ] Bot orchestrator con rate limiting
+- [ ] Quotas por tenant (mensajes/día)
+
+#### Fase 3: License Server (3-4 semanas)
+- [ ] Central License API
+- [ ] Validación de licencias
+- [ ] License client para self-hosted
+- [ ] Telemetry opcional
+
+#### Fase 4: Billing & Subscriptions (2-3 semanas)
+- [ ] Integración con Stripe
+- [ ] Planes: Free, Pro ($29), Enterprise ($299)
+- [ ] Gestión de suscripciones
+- [ ] Control de quotas por plan
+
+#### Fase 5: Dashboard & Analytics (3-4 semanas)
+- [ ] Admin Dashboard multi-tenant
+- [ ] Métricas globales de uso
+- [ ] Reportes de revenue
+- [ ] Alertas y notificaciones
+
+### Versión 2.7 (Q1 2026) - **Próximo**
 - [ ] Plantillas de respuestas rápidas
 - [ ] Broadcast masivo (con rate limiting)
 - [ ] Etiquetas y segmentación de clientes
 - [ ] Exportación de conversaciones (PDF/CSV)
+
+### Versión 2.6 (Actual) - ✅ **Completado**
+- [x] Multi-agente con IA
+- [x] Hot Standby (failover < 5s)
+- [x] Sistema OCR de pagos
+- [x] Catálogo multimedia
+- [x] Gestión de citas
+- [x] Keywords de seguridad
+- [x] Multi-motor IA (Deepseek, OpenAI, Qwen, Gemini, Llama)
+- [x] Enlaces de WhatsApp para productos
+- [x] Órdenes de catálogo WhatsApp
 
 ---
 
